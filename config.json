@@ -1,0 +1,10 @@
+{
+  "api_base_url": "https://api.quran.com/api/v4",
+  "translations_endpoint": "/quran/translations/20",
+  "chapters_endpoint": "/chapters",
+  "output_directory": "./output",
+  "html_css_link": "<link rel='stylesheet' href='https://fonts.googleapis.co/css?family=Allerta'>",
+  "html_style": "p {\n  color: white;\n  font-family:'Allerta',normal; \n  font-size: 45px;\n  margin-right:200px;\n  margin-left:200px;\n}",
+  "bullet_point_symbol": "1", 
+  "bullet_point_symbols": "1 for Numbers, 2 for Bullet Points"
+}
